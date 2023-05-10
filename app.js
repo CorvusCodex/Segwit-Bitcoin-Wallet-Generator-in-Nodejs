@@ -1,6 +1,6 @@
 "use strict";
 
-process.title = "Bitcoin Bruteforce";
+process.title = "Segwit-Bitcoin-Wallet-Generator-in-Nodejs";
 
 
 //Creaded by: Corvus Codex
