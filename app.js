@@ -1,7 +1,6 @@
 "use strict";
 
-process.title = "Segwit-Bitcoin-Wallet-Generator-in-Nodejs";
-
+process.title = "Segwit Bitcoin Wallet Generator in Nodejs by Corvus Codex";
 
 //Creaded by: Corvus Codex
 //Github: https://github.com/CorvusCodex/
